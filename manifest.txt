@@ -1,0 +1,2 @@
+Main-Class: hwserver
+Class-Path: /usr/local/share/java/zmq.jar
